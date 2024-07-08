@@ -1,0 +1,10 @@
+Z:\dcit318-assignment4-10952673\Loginscreen\bin\Debug\Loginscreen.exe.config
+Z:\dcit318-assignment4-10952673\Loginscreen\bin\Debug\Loginscreen.exe
+Z:\dcit318-assignment4-10952673\Loginscreen\bin\Debug\Loginscreen.pdb
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.csproj.AssemblyReference.cache
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.Form1.resources
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.Properties.Resources.resources
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.csproj.GenerateResource.cache
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.csproj.CoreCompileInputs.cache
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.exe
+Z:\dcit318-assignment4-10952673\Loginscreen\obj\Debug\Loginscreen.pdb
