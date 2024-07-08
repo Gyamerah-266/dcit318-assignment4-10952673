@@ -1,0 +1,10 @@
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing Canvas.csproj.AssemblyReference.cache
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing_Canvas.DrawingForm.resources
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing_Canvas.Properties.Resources.resources
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing Canvas.csproj.GenerateResource.cache
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing Canvas.csproj.CoreCompileInputs.cache
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\bin\Debug\Drawing Canvas.exe.config
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\bin\Debug\Drawing Canvas.exe
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\bin\Debug\Drawing Canvas.pdb
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing Canvas.exe
+Z:\dcit318-assignment4-10952673\Drawing Canvas\Drawing Canvas\obj\Debug\Drawing Canvas.pdb

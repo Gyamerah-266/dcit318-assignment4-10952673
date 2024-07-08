@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|z:\\dcit318-assignment4-10952673\\drawing canvas\\drawing canvas\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|solutionrelative:drawing canvas\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|z:\\dcit318-assignment4-10952673\\drawing canvas\\drawing canvas\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|solutionrelative:drawing canvas\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|z:\\dcit318-assignment4-10952673\\drawing canvas\\drawing canvas\\drawingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52010C4B-99C0-417C-8BFD-28561B3BC6D5}|Drawing Canvas\\Drawing Canvas.csproj|solutionrelative:drawing canvas\\drawingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawingForm.Designer.cs",
+              "DocumentMoniker": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.Designer.cs",
+              "RelativeDocumentMoniker": "Drawing Canvas\\DrawingForm.Designer.cs",
+              "ToolTip": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.Designer.cs*",
+              "RelativeToolTip": "Drawing Canvas\\DrawingForm.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:28:25.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawingForm.cs",
+              "DocumentMoniker": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.cs",
+              "RelativeDocumentMoniker": "Drawing Canvas\\DrawingForm.cs",
+              "ToolTip": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.cs*",
+              "RelativeToolTip": "Drawing Canvas\\DrawingForm.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:27:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingForm.cs [Design]",
+              "DocumentMoniker": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.cs",
+              "RelativeDocumentMoniker": "Drawing Canvas\\DrawingForm.cs",
+              "ToolTip": "Z:\\dcit318-assignment4-10952673\\Drawing Canvas\\Drawing Canvas\\DrawingForm.cs [Design]*",
+              "RelativeToolTip": "Drawing Canvas\\DrawingForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:26:49.683Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
