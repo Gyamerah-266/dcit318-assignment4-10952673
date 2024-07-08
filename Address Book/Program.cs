@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1_3
+namespace Address_Book
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace WindowsFormsApp1_3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Loginscreen());
+            Application.Run(new AddressBookForm());
         }
     }
 }

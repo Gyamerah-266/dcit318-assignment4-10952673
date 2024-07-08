@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp1_3.Properties
+namespace Address_Book.Properties
 {
 
 
